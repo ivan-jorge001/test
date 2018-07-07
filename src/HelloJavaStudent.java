@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class HelloJavaStudent {
     public static void main(String[] args) {
 
-        System.out.println("What is your name?");
+        System.out.println("helloworld");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
         System.out.println("\nHello World!\n");
