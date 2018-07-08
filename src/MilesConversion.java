@@ -22,7 +22,7 @@ public class MilesConversion {
         double numberOfMiles = neuticalMiles * NUMBER_OF_MILES;
 
         System.out.println("The Neutical Miles are: " + neuticalMiles);
-        System.out.printf("The number of neutical miles in kilometer is %.3f", numberOfKm);
+        System.out.printf("The number sdasdasdasdasdasof neutical miles in kilometer is %.3f", numberOfKm);
         System.out.printf("\nThe number of neutical miles in miless is %.3f", numberOfMiles);
     }
 }
